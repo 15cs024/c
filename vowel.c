@@ -2,11 +2,11 @@
 #include<conio.h>
 int main()
 {
-int n;
+int s;
 clrscr();
 printf("\n enter the value");
-scanf("%d",&n);
-if(n=='a')||(n=='e')||(n=='i')||(n=='o')||(n=='u')
+scanf("%d",&s);
+if(s=='a')||(s=='e')||(s=='i')||(s=='o')||(s=='u')
 {
 printf("\n vowel");
 }
